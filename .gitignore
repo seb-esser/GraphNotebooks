@@ -1,2 +1,3 @@
 venv/
 .vscode
+Neo4j*.txt
