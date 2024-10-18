@@ -1,5 +1,5 @@
 
-def load_credentials(filename: str = "Neo4j-aacfd399-Created-2024-10-18.txt") -> dict: 
+def load_credentials(filename: str) -> dict: 
     """
     Loads the neo4j credentials if stated as a file"""
 
